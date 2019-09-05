@@ -832,7 +832,7 @@ please preview your site before committing, and make sure to run
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
 
-{% comment %}
+{% endcomment %}
 
 {% comment %}
 <div id="vm">
