@@ -12,7 +12,7 @@ humantime: "9:00 am - 4:30 pm"    # human-readable times for the workshop (e.g.,
 startdate: 2019-09-30      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-10-01        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Stéphane Guillou, TBD"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["TBD"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Mark Crowe"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["s.guillou@uq.edu.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: http://pad.carpentries.org/2019-09-30-UQ-R # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -87,7 +87,7 @@ workshop is only open to people from a particular institution.
 
 <p id="who">
   <strong>Who:</strong>
-  The course is aimed at graduate students and other researchers, or any staff member interested in being introduced to programming.
+  The course is aimed at members of the UQ community: graduate students and other researchers, or any staff member interested in being introduced to programming.
   <strong>
     You don't need to have any previous knowledge of the tools
     that will be presented at the workshop.
@@ -166,6 +166,14 @@ special instructions.
   you (e.g. sign-language interpreters, lactation facilities) please
   get in touch (using contact details below) and we will
   attempt to provide them.
+</p>
+
+<p id="register">
+  <strong>Registration:</strong>
+  You can register <a href="https://studenthub.uq.edu.au/students/events/detail/2683525">on StudentHub</a>.
+  <strong>
+    Please make sure you can attend on both days: there is high demand for this type of workshop. If it turns out you won't be able to attend, please cancel your booking so people on the waiting list can get a spot.
+  </strong>
 </p>
 
 {% comment %}
